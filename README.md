@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F3E8FF,EADCF8,EBD6FF&height=200&text=Juhee's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=50&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=F3E8FF,EADCF8,EBD6FF&height=200&text=Juhee's%20GitHub&fontSize=50&animation=twinkling&fontAlign=50&fontAlignY=40)
 
 
 #### GitHub Stats
