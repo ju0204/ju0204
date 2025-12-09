@@ -15,11 +15,11 @@
 <p align="center">
   <img 
     src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=ju0204&hide=contribs&count_private=true&show_icons=true&title_color=BA55D3&text_color=5C5470&icon_color=BA55D3&bg_color=FDF6FF&hide_border=true" 
-    height="180" 
+    height="150" 
   />
   <img 
     src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=ju0204&layout=compact&title_color=BA55D3&text_color=5C5470&bg_color=FDF6FF&hide_border=true" 
-    height="180" 
+    height="150" 
   />
 </p>
 
