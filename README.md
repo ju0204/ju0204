@@ -9,8 +9,19 @@
 -->
 
 
+## 🛠️ **Projects & Activities**
 
-#### GitHub Stats
+
+•  📖 **Mindscape** - 사용자 맞춤형 책·음악·영화 추천 서비스  [[LINK]](https://github.com/CLD-3rd/Final-Team1-Backend)
+
+•  ⏱️ **Fastpick** - 실시간 선착순 응모 서비스 [[LINK]](https://github.com/CLD-3rd/team3)
+
+•  🚗 **TripBridge** - 사용자 맞춤형 여행 추천 서비스 [[LINK]](https://github.com/ju0204/TripBridge-web)
+
+<br/>
+<br/>
+
+## 🟢 GitHub Stats
 
 <p align="left">
   <img 
