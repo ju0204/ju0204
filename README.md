@@ -18,6 +18,8 @@
 
 •  🚗 **TripBridge** - 사용자 맞춤형 여행 추천 서비스 [[LINK]](https://github.com/ju0204/TripBridge-web)
 
+•  🔗 **Shortify** - AWS 서버리스 기반 URL 단축 서비스(클릭 통계·AI 트렌드/인사이트·모니터링) [[LINK]](https://github.com/ju0204/URL-Shortening)
+
 <br/>
 <br/>
 
