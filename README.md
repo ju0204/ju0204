@@ -23,6 +23,7 @@
 <br/>
 <br/>
 
+<!--
 ## 🟢 GitHub Stats
 
 <p align="left">
@@ -35,6 +36,6 @@
     height="160" 
   />
 </p>
-
+-->
 
 
